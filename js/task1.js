@@ -1,5 +1,5 @@
-var res1, res2, check;
-var a = parseInt(prompt("write a", a)),
+var res1, res2, check,
+	a = parseInt(prompt("write a", a)),
 	b = parseInt(prompt("write b", b)),
 	c = parseInt(prompt("write c", c)),
 	D = Math.pow(b, 2) - (4 * a * c),
