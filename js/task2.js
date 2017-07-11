@@ -1,5 +1,5 @@
-var dollar, euro, hryvnia, euroGR, dollarGR;
-var euro = prompt("write euro", euro),
+var dollar, euro, hryvnia, euroGR, dollarGR,
+ 	euro = prompt("write euro", euro),
 	dollar = prompt("write dollars", dollar),
 	euroGR = parseInt(euro) * 29.75,
 	dollarGR = parseInt(dollar) * 26.05;
